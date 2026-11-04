@@ -34,11 +34,29 @@ Install one of the desktop files, not both.
 ## Specimen
 
 ![Latin-1](specimen/02-latin-1.jpg)
+
+<br>
+
 ![Extended](specimen/03-extended.jpg)
+
+<br>
+
 ![Currency](specimen/04-currency.jpg)
+
+<br>
+
 ![ANSI](specimen/05-ansi.jpg)
+
+<br>
+
 ![DOS](specimen/06-dos.jpg)
+
+<br>
+
 ![Icons](specimen/07-icons.jpg)
+
+<br>
+
 ![Bitcoin is money](specimen/08-binary.jpg)
 
 ## Checking a download
