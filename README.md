@@ -1,5 +1,7 @@
 # OCR-Bitcoin
 
+[![OCR-Bitcoin 2.0 video](specimen/00-video.jpg)](https://github.com/omg21btc/OCR-Bitcoin/releases/download/v2.0/OCR-Bitcoin_v2.mp4)
+
 Version 2.0. MIT License.
 
 ![OCR-Bitcoin specimen](specimen/01-ocr-bitcoin.jpg)
